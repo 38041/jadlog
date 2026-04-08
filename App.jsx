@@ -1,4 +1,4 @@
-import { useState } from "react";
+ import { useState } from "react";
 import "./App.css";
 
 export default function App() {
@@ -44,7 +44,8 @@ export default function App() {
         <div className="box">
           <div>
             <p>Tipo</p>
-            <span>Normal / Expresso</span>
+
+          <span>Normal / Expresso</span>
           </div>
           <div>
             <p>Destino</p>
